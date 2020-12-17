@@ -1,0 +1,13 @@
+<resources>
+
+    <!--- SPLASH SCREEN -->
+    <string name="app_name">Just Clean</string>
+    <string name="get_started_button">Get Started</string>
+    <string name="navigation_vector">https://www.arcgis.com/sharing/rest/content/items/dcbbba0edf094eaa81af19298b9c6247/resources/styles/root.json</string>
+
+    <string name="fav">Favourite</string>
+
+    <string name="favcomment">You have Fav this Comment</string>
+
+
+</resources>

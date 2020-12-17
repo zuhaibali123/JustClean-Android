@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorText">#000000</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="grey">#E9EAEE</color>
+    <color name="footerColor">#464646</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="splashBg">#EFEFEF</color>
+
+
+
+
+
+</resources>

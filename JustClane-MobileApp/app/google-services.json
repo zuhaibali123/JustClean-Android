@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "249413640037",
+    "firebase_url": "https://asset-transfer-system.firebaseio.com",
+    "project_id": "asset-transfer-system",
+    "storage_bucket": "asset-transfer-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249413640037:android:ed7f2fe17f126a651f8b8c",
+        "android_client_info": {
+          "package_name": "com.tatweer.mhussain.assettracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249413640037-3tscmniouhh8trq5ddlpgnre6iqo2t8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tatweer.mhussain.assettracking",
+            "certificate_hash": "59dcd743ba566c1fe8f42621fa99b1d94ce19fce"
+          }
+        },
+        {
+          "client_id": "249413640037-p1svmluah7pjsgvjijrnh27l03fstptp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF74mumYxx8ENPKAGwbuitUJaJQ43tHK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249413640037-p1svmluah7pjsgvjijrnh27l03fstptp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
